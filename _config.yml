@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Paul Sheridan"
-  avatar           : "profil.jpg"
+  avatar           : "profile.jpg"
   bio              : "Your biography for the left-hand sidebar"
   location         : "Charlottetown, PE"
   employer         :
