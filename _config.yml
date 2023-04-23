@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Paul Sheridan"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "Assistant Professor at the School of Mathematical and Computational Sciences at the University of Prince Edward Island"
   location         : "Charlottetown, PE"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=n4TnvgsAAAAJ&hl=en"
-  email            :
+  email            : "paul.sheridan.stats@gmail.com"
   researchgate     : "https://www.researchgate.net/profile/Paul-Sheridan-5"
   uri              :
   bitbucket        :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/its-paul-sheridan/"
+  linkedin         : "its-paul-sheridan"
   orcid            : "https://orcid.org/0000-0002-5484-1951"
   pinterest        :
   soundcloud       :
@@ -255,7 +255,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Canada/Atlantic # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
