@@ -11,7 +11,7 @@ redirect_from:
 Welcome to my personal website. I'm an Assistant Professor at the School of Mathematical and Computational Sciences, University of Prince Edward Island. My current research interests lie in information retrieval and ontologies for computational literary studies. Contact me, if you're interested in kicking the tires on a potential collaboration in either of these areas.
 
 Information retrieval
-======
+------
 I am curious to explain the success of TF-IDF-like heuristics from a statistical significance testing lens and apply this understanding to develop novel term weighting schemes that help improve state-of-the-art document retrieval, classification, and summarization methods.
 
 The Literary Theme Ontology
