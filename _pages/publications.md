@@ -47,6 +47,25 @@ Conference activity
 
 **Papers**
 
+**Sheridan, P.**, Onsjö, M., Hastings, J. (2019). "The Literary Theme Ontology for Media Annotation and Information Retrieval". <i>Proceedings of JOWO2019: The Joint Ontology Workshops</i>, Graz, Austria, September 23-25. Full text available at <a href="https://ceur-ws.org/Vol-2518/paper-WODHSA8.pdf" target="_blank" rel="noopener"> Proceedings of the Joint Ontology Workshops 2019 Episode V: The Styrian Autumn of Ontology</a>.
 
+Thong, P., **Sheridan, P.**, Shimodaira, H. (2015). "Nonparametric Estimation of the Preferential Attachment Function in Complex Networks: Evidence of Deviations from Log Linearity". <i>Proceedings of ECCS’14: European Conference on Complex Systems</i>, Lucca, Italy, September 22-26. Full text available at <a href="https://link.springer.com/chapter/10.1007/978-3-319-29228-1_13" target="_blank" rel="noopener"> Proceedings of ECCS 2014</a>.
+
+Onodera, T., **Sheridan, P.** (2013). "Maximum Likelihood Estimation of Preferential Attachment in Growing Networks". <i>Proceedings of the International Workshop on Phase Transition, Critical Phenomena and Related Topics in Complex Networks</i>, Sapporo, Japan, September 9-11.
+
+**Sheridan, P.**, Kamimura, T., Shimodaira, H. (2009). "On Scale-free Priors and their Applicability in Large-scale Network Inference with Graphical Models". Complex 2009: Complex Sciences, Shanghai, China, February 23-25. Full text available at <a href="https://link.springer.com/chapter/10.1007/978-3-642-02466-5_9" target="_blank" rel="noopener"> Complex 2009: Complex Sciences</a>.
 
 **Posters**
+
+**Sheridan, P.**, Tremmel, G., Yamaguchi, R., Imoto, S., Miyano, S. (2015). "Headache-free Geneset Analysis for the Working Molecular Biologist". <i>42nd IMSUT Founding Commemorative Symposium</i>, Tokyo, Japan, June 1-2.
+
+Takahashi, Y., **Sheridan, P.**, Niida, A., Sawada, G., Uchi, R., Mizuno, H., Kurashige, J., Sugimachi, K., Sasaki, S., Shimada, Y., Hase, K., Kusunoki, M., Kudo, S., Watanabe, M., Yamada, K., Sugihara, K., Yanamoto, H., Suzuki, A., Doki, Y., Miyano, S., Mori, M., Mimori, K. (2013). "Genomic Co-amplification of TPX2 and AURKA with MYC Cooperatively Promote MYC-driven Carcinogenesis". <i>Systems Cancer Workshop</i>, Tokyo, Japan, December.
+
+**Sheridan, P.**, Onodera, T. (2013). "The Resolution of a Minor Preferential Attachment Paradox makes Major Confusions Plain". <i>The International Workshop on Phase Transition</i>, Critical Phenomena and Related Topics in Complex Networks, Sapporo, Japan, September 9-11.
+
+**Sheridan, P.**, Yagahara, Y., Shimodaira, H. (2009). "Estimating Preferential Attachment in Growing Networks with Unknown Node Ordering". <i>Global COE Opening Symposium</i>, Tokyo, Japan, January 30 - February 1.
+
+**Sheridan, P.**, Kamimura, T., Shimodaira, H. (2008). "Estimating Gene Networks from Microarray Data using Graphical Models with Scale-free Priors". <i>Pacific Symposium on Biocomputing</i>, Big Island of Hawaii, USA, January 4-8.
+
+**Sheridan, P.**, Kamimura, T., Shimodaira, H. (2007). "Comparing Scale-free Priors over Graph Structures for Bayesian Inference of Gene Networks". <i>Pacific Symposium on Biocomputing</i>, Maui, USA, January 3-7.
+
