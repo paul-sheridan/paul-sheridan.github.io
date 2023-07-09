@@ -8,6 +8,6 @@ date: 2023-07-03
 location: "Groningen, the Netherlands"
 ---
 
-This is a talk I gave at the Ontologies for Narrative and Fiction workshop [link](https://golemlab.eu/news/ontology-workshop/).
+This is a talk I gave at the [Ontologies for Narrative and Fiction workshop](https://golemlab.eu/news/ontology-workshop/).
 
 Presentation slides are available [here](https://golemlab.eu/news/ontology-workshop/slides/Sheridan_theme_ontology-compressed.pdf).
