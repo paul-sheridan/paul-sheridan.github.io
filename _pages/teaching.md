@@ -5,6 +5,11 @@ permalink: /teaching/
 author_profile: true
 ---
 
+**Fall 2023**:
+
+STAT-3910 Probability and Mathematical Statistics II 
+AMS-4600 Predictive Analytics I
+
 **Winter 2023**:
 
 STAT-4410 Stochastic Processes  
