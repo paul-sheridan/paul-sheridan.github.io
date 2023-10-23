@@ -47,6 +47,8 @@ Conference activity
 
 **Papers**
 
+Lai, U., Randhawa, G., S., **Sheridan, P.** (2023). "Heaps' Law in GPT-Neo Large Language Model Emulated Corpora". Accepted at NTCIR-17, Track EVIA.
+
 **Sheridan, P.**, Onsjö, M., Hastings, J. (2019). "The Literary Theme Ontology for Media Annotation and Information Retrieval". <i>Proceedings of JOWO2019: The Joint Ontology Workshops</i>, Graz, Austria, September 23-25. Full text available at <a href="https://ceur-ws.org/Vol-2518/paper-WODHSA8.pdf" target="_blank" rel="noopener"> Proceedings of the Joint Ontology Workshops 2019 Episode V: The Styrian Autumn of Ontology</a>.
 
 Thong, P., **Sheridan, P.**, Shimodaira, H. (2015). "Nonparametric Estimation of the Preferential Attachment Function in Complex Networks: Evidence of Deviations from Log Linearity". <i>Proceedings of ECCS’14: European Conference on Complex Systems</i>, Lucca, Italy, September 22-26. Full text available at <a href="https://link.springer.com/chapter/10.1007/978-3-319-29228-1_13" target="_blank" rel="noopener"> Proceedings of ECCS 2014</a>.
