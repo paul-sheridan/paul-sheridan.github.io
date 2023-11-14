@@ -5,9 +5,14 @@ permalink: /teaching/
 author_profile: true
 ---
 
+**Winter 2024**:
+
+STAT-4660/MSC-8660 Data Visualization and Mining  
+AMS-4610 Predictive Analytics II 
+
 **Fall 2023**:
 
-STAT-3910 Probability and Mathematical Statistics II 
+STAT-3910 Probability and Mathematical Statistics II  
 AMS-4600 Predictive Analytics I
 
 **Winter 2023**:
