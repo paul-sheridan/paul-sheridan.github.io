@@ -1,7 +1,6 @@
 ---
 permalink: /
 title: "I'm flying by the seat of my pants like the rest of you"
-excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
