@@ -13,6 +13,8 @@ Sarria Hurtado, S., Mullen, T., Onodera, T., **Sheridan, P.** (2023). "A Statist
 Peer reviewed journal articles 
 ------
 
+Boluwade, A., **Sheridan, P.**, Farooque, A. A. (2024). "Spatial Modeling of Extreme Temperature in the Canadian Prairies using Max-stable Processes". <i>Results in Engineering</i>, 101879. Full text available at <a href="https://www.sciencedirect.com/science/article/pii/S2590123024001324" target="_blank" rel="noopener"> Results in Engineering</a>.
+
 **Sheridan, P.**, Onsjö, M. (2023). "The Hypergeometric Test Performs Comparably to a Common TF-IDF Variant on Standard Information Retrieval Tasks". <i>Multimedia Tools and Applications</i>, 1-16. Full text available at <a href="https://link.springer.com/article/10.1007/s11042-023-16615-z" target="_blank" rel="noopener"> Multimedia Tools and Applications</a>. Preprint available at <a href="https://arxiv.org/abs/2002.11844" target="_blank" rel="noopener"> arXiv</a>.
 
 Yamaguchi, K., Nakagawa, S., Saku, A., Isoba, Y., Yamaguchi, R., **Sheridan, P.**, Takane, K., Ikenoue, T., Zhu, C., Miura, M., Nagatoshi, S., Aikou, S., Shida, Y., Shida, D., Tsumoto, K., Miyano, S., Imoto, S., Furukawa, Y. (2023). "Bromodomain Protein BRD8 Regulates Cell Cycle Progression in Colorectal Cancer Cells Through a TIP-60-independent Regulation of the pre-RC Complex". <i>iScience</i>, 26(4): 106563. Full text available at <a href="https://www.sciencedirect.com/science/article/pii/S2589004223006405" target="_blank" rel="noopener"> iScience</a>.
