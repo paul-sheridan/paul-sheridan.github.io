@@ -66,7 +66,7 @@ Onodera, T., **Sheridan, P.** (2013). "Maximum Likelihood Estimation of Preferen
 
 **Posters**
 
-Yamaguchi, K., Nakagawa, S., Yamaguchi, R., **Sheridan, P.**, Takane, K., Ikenoue, T., Nagatoichi, S., Kozuka-Hata, H., Oyama, M., Aikou, S., Ahiko, Y., Shida, D., Tsumoto, K., Miyano, S., Imoto, S., Furukawa, Y., (2024). "TIP60-independent Mechanism of BRD8 is involved in Colorectal Tumorigenesis", <i>AACR Annual Meeting</i>, San Diego, USA, April 4-10.
+Yamaguchi, K., Nakagawa, S., Yamaguchi, R., **Sheridan, P.**, Takane, K., Ikenoue, T., Nagatoichi, S., Kozuka-Hata, H., Oyama, M., Aikou, S., Ahiko, Y., Shida, D., Tsumoto, K., Miyano, S., Imoto, S., Furukawa, Y. (2024). "TIP60-independent Mechanism of BRD8 is involved in Colorectal Tumorigenesis", <i>AACR Annual Meeting</i>, San Diego, USA, April 4-10.
 
 **Sheridan, P.**, Tremmel, G., Yamaguchi, R., Imoto, S., Miyano, S. (2015). "Headache-free Geneset Analysis for the Working Molecular Biologist". <i>42nd IMSUT Founding Commemorative Symposium</i>, Tokyo, Japan, June 1-2.
 
