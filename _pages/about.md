@@ -19,6 +19,7 @@ If you’re interested, email me the following items at pasheridan@upei.ca:
   * Curriculum vitae
   * BSc unofficial transcript
   * A demonstration that binomial logistic regression is equivalent to a single-layer perceptron with a cross-entropy loss function
+
 Please note that only shortlisted candidates will be contacted.
 
 
