@@ -1,5 +1,5 @@
 ---
-title: "How to Get Your Professors Attention"
+title: "How to Get Your Professor's Attention"
 collection: talks
 type: "Talk"
 permalink: /talks/2024-05-10-upei-mathcamp
@@ -8,4 +8,4 @@ date: 2024-05-10
 location: "Charlottetown, Canada"
 ---
 
-This is a talk I gave at the [Math Camp 2024](https://www.upei.ca/school-of-mathematical-and-computational-sciences/math-camp).
+This is a talk I gave at [Math Camp 2024](https://www.upei.ca/school-of-mathematical-and-computational-sciences/math-camp).
