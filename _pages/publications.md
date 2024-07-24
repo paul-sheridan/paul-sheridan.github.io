@@ -8,7 +8,7 @@ author_profile: true
 Submitted articles
 ------
 
-**Sheridan, P.**, Ahmed, Z., Farooque, A. A. (2024). "A Fisher’s exact test interpretation of the TF-IDF term-weighting scheme".
+**Sheridan, P.**, Ahmed, Z., Farooque, A. A. (2024). "A Fisher’s Exact Test interpretation of the TF-IDF Term-weighting Scheme".
 
 Sarria Hurtado, S., **Sheridan, P.** Mullen, T., Lai, U., Onodera, T., Randhawa, G. S., Farooque, A. A. (2024). "A Statistical Significance Testing Approach for Measuring Term Burstiness with Applications to Domain-specific Terminology Extraction".
 
