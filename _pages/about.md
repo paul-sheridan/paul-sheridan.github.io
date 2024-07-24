@@ -15,7 +15,7 @@ Hot stove
 
 I am actively recruiting MSc students who are interested in researching energy-efficient, and therefore sustainable, machine learning methods for text analysis applications. Applicants must hold a BSc in Data Science, Statistics, Computer Science, or related field. A strong background in mathematics for machine learning and Python programming is required. 
 
-If you’re interested, email me the following items at pasheridan@upei.ca:
+If you’re interested, email me the following items at pasheridan (at) upei (dot) ca:
   * Curriculum vitae
   * BSc unofficial transcript
   * A demonstration that binomial logistic regression is equivalent to a single-layer perceptron with a cross-entropy loss function
