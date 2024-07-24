@@ -5,10 +5,12 @@ permalink: /publications/
 author_profile: true
 ---
 
-Preprints
+Submitted articles
 ------
 
-Sarria Hurtado, S., Mullen, T., Onodera, T., **Sheridan, P.** (2023). "A Statistical Significance Testing Approach for Measuring Term Burstiness with Applications to Domain-specific Terminology Extraction". Preprint available at <a href="https://arxiv.org/abs/2310.15790" target="_blank" rel="noopener"> arXiv</a>.
+**Sheridan, P.**, Ahmed, Z., Farooque, A. A. (2024). "A Fisher’s exact test interpretation of the TF-IDF term-weighting scheme,".
+
+Sarria Hurtado, S., **Sheridan, P.** Mullen, T., Lai, U., Onodera, T., Randhawa, G. S., Farooque, A. A. (2024). "A Statistical Significance Testing Approach for Measuring Term Burstiness with Applications to Domain-specific Terminology Extraction". Preprint available at <a href="https://arxiv.org/abs/2310.15790" target="_blank" rel="noopener"> arXiv</a>.
 
 Peer reviewed journal articles 
 ------
