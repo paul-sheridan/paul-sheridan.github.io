@@ -5,6 +5,10 @@ permalink: /teaching/
 author_profile: true
 ---
 
+**Fall 2024**:
+
+STAT-3910 Probability and Mathematical Statistics II  
+
 **Winter 2024**:
 
 STAT-4660/MSC-8660 Data Visualization and Mining  
