@@ -4,7 +4,7 @@ collection: talks
 type: "Talk"
 permalink: /talks/2024-11-28-dalhousie-stats-seminar
 venue: "Dalhousie University"
-date: 2023-07-03
+date: 2024-11-28
 location: "Halifax, Canada"
 ---
 
