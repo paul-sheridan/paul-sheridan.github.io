@@ -7,8 +7,8 @@ author_profile: true
 
 **Winter 2025**:
 
-STAT-11910: Intro to Probability and Stats
-STAT-4660/MSC-8660: Data Visualization and Mining
+STAT-11910: Intro to Probability and Stats 
+STAT-4660/MSC-8660: Data Visualization and Mining 
 MCS-8920: Adv. Math and Comp. Modelling
 
 **Fall 2024**:
