@@ -6,7 +6,7 @@ author_profile: true
 redirect_from:
   - /resume
   - /CV
-redirect_to: https://www.dropbox.com/scl/fi/nf8w5burv3kte722otf2n/20241222-paul-sheridan-cv-references-upon-request.pdf?rlkey=f3yfuje142ebhbudp7zw5dhfn&dl=0
+redirect_to: https://www.dropbox.com/scl/fi/poppwo4nq3ns9xyws0r25/20250423-paul-sheridan-cv-references-upon-request.pdf?rlkey=fanubha6ukg6w7h0qb80c4lpm&st=6lnd98lz&dl=0
 ---
 
 {% include base_path %}
