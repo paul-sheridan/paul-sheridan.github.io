@@ -10,7 +10,7 @@ Submitted articles
 
 Ahmed, Z., **Sheridan, P.**, McIsaac, M., Farooque, A. A. (2025). "Common TF–IDF Variants Arise as Leading Terms in a Penalized Likelihood-Ratio Test for Word Burstiness".
 
-Guo, Y. **Sheridan, P.** (2025). "Greedy-Gnorm: A Gradient Matrix Norm-Based Alternative to Attention Entropy for Head Pruning”. Journal of Machine Learning Research, 2025, (Submitted).
+Guo, Y. **Sheridan, P.** (2025). "Greedy-Gnorm: A Gradient Matrix Norm-Based Alternative to Attention Entropy for Head Pruning”.
 
 Lai, U. Lewis, D. C. P., **Sheridan, P.**, Randhawa, G. S., Farooque, A. A. (2025). "A Comparative Analysis of Lexical Diversity in Human-Written and Large Language Model-Emulated Text using Heaps' Law".
 
