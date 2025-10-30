@@ -16,7 +16,7 @@ STAT 3910: Probability and Mathematical Statistics II
 
 **Winter 2025**
 
-STAT 1910: Introduction to Probability and Statistics 
+STAT 1910: Introduction to Probability and Statistics  
 STAT 4660/MSC-8660: Data Visualization and Mining  
 MCS 8920: Adv. Math and Comp. Modelling
 
