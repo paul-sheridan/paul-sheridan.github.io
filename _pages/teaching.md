@@ -11,7 +11,7 @@ STAT 3660: Data Visualization and Mining
 
 **Fall 2025**
 
-STAT 1910: Introduction to Statistics
+STAT 1910: Introduction to Statistics  
 STAT 3910: Probability and Mathematical Statistics II  
 
 **Winter 2025**
