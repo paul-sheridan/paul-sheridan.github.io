@@ -5,19 +5,31 @@ permalink: /publications/
 author_profile: true
 ---
 
-Submitted articles
+Last updated: 8 February 2026
+
+Submitted manuscripts
 ------
 
-Ahmed, Z., **Sheridan, P.**, McIsaac, M., Farooque, A. A. (2025). "Common TF–IDF Variants Arise as Leading Terms in a Penalized Likelihood-Ratio Test for Word Burstiness".
+Guo, Y. **Sheridan, P.** (2026). "Greedy-Gnorm: A Gradient Matrix Norm-Based Alternative to Attention Entropy for Head Pruning”. Submitted to <i>Machine Learning</i> (Springer Nature). Preprint available at <a href="https://arxiv.org/abs/2602.04491" target="_blank" rel="noopener"> arXiv</a>.
 
-Guo, Y. **Sheridan, P.** (2025). "Greedy-Gnorm: A Gradient Matrix Norm-Based Alternative to Attention Entropy for Head Pruning”.
 
-Lai, U. Lewis, D. C. P., **Sheridan, P.**, Randhawa, G. S., Farooque, A. A. (2025). "A Comparative Analysis of Lexical Diversity in Human-Written and Large Language Model-Emulated Text using Heaps' Law".
+Under review manuscripts
+------
 
-Sarria Hurtado, S., **Sheridan, P.**, Mullen, T., Lai, U., Onodera, T., Randhawa, G. S., Farooque, A. A. (2024). "A Heuristic Approach to Term Dispersion Quantification with Applications to Domain-Specific Terminology Extraction".
+Tamayo-Vera, D., MacLennan, L., **Sheridan, P.** (2026). Evaluating explanation stability for reliable interpretability in machine learning. <i>The IEEE World Congress on Computational Intelligence 2026 (WCCI 2026)</i> (Under review).
+
+Diykh, D., Mumtaz, A., Farooque, A. A., Al-Naemi, S., Malekian, R., Afzaal, H., Randhawa, G. S., **Sheridan, P.**, Esau, T. J. (2026). Drone-Based RGB to Thermal Image Translation: A Novel Approach for Non-destructive Crop Monitoring. <i>Expert Systems with Applications</i> (Under review).
+
+Ahmed, Z., **Sheridan, P.**, McIsaac, M., Farooque, A. A. (2026). "Common TF–IDF} Variants Arise as Key Components in the Test Statistic of a Penalized Likelihood-ratio Test for Word Burstiness". <i>Discover Computing</i> (Revision requested).
+
+Lai, U. Lewis, D. C. P., **Sheridan, P.**, Randhawa, G. S., Farooque, A. A. (2025). "A Comparative Analysis of Lexical Diversity in Human-Written and Large Language Model-Emulated Text using Heaps' Law". <i>Computational Linguistics</i> (Revision requested).
+
+Sarria Hurtado, S., **Sheridan, P.**, Mullen, T., Lai, U., Onodera, T., Randhawa, G. S., Farooque, A. A. (2025). "A Heuristic Approach to Term Dispersion Quantification with Applications to Domain-Specific Terminology Extraction". <i>Natural Language Processing</i> (Revision requested).
 
 Peer reviewed journal articles 
 ------
+
+Visser Solisa, N., **Sheridan, P.**, Onsjö, M., van Cranenburgh, A., Pianzola, F. (2026). A Classification Benchmark based on the Literary Theme Ontology. <i>Journal of Open Digital Humanities</i> (In press).
 
 Boluwade, A., **Sheridan, P.**, Rathnayake, U. (2025). "Investigating Spatial Extremes of Annual Daily Precipitation in Atlantic Canada using CMIP6 Multi-Model Ensembles for Flood Risk Assessment". <i>Sustainability</i>, 17(18): 8198. Full text available at <a href="https://www.mdpi.com/2071-1050/17/18/8198" target="_blank" rel="noopener"> Sustainability</a>.
 
