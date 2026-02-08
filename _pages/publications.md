@@ -20,7 +20,7 @@ Tamayo-Vera, D., MacLennan, L., **Sheridan, P.** (2026). Evaluating explanation 
 
 Diykh, D., Mumtaz, A., Farooque, A. A., Al-Naemi, S., Malekian, R., Afzaal, H., Randhawa, G. S., **Sheridan, P.**, Esau, T. J. (2026). Drone-Based RGB to Thermal Image Translation: A Novel Approach for Non-destructive Crop Monitoring. <i>Expert Systems with Applications</i> (Under review).
 
-Ahmed, Z., **Sheridan, P.**, McIsaac, M., Farooque, A. A. (2026). "Common TF–IDF} Variants Arise as Key Components in the Test Statistic of a Penalized Likelihood-ratio Test for Word Burstiness". <i>Discover Computing</i> (Revision requested).
+Ahmed, Z., **Sheridan, P.**, McIsaac, M., Farooque, A. A. (2026). "Common TF–IDF Variants Arise as Key Components in the Test Statistic of a Penalized Likelihood-ratio Test for Word Burstiness". <i>Discover Computing</i> (Revision requested).
 
 Lai, U. Lewis, D. C. P., **Sheridan, P.**, Randhawa, G. S., Farooque, A. A. (2025). "A Comparative Analysis of Lexical Diversity in Human-Written and Large Language Model-Emulated Text using Heaps' Law". <i>Computational Linguistics</i> (Revision requested).
 
