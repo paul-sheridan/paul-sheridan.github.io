@@ -18,7 +18,7 @@ Under review manuscripts
 
 Tamayo-Vera, D., MacLennan, L., **Sheridan, P.** (2026). "Evaluating Explanation Stability for Reliable Interpretability in Machine Learning". <i>The IEEE World Congress on Computational Intelligence 2026 (WCCI 2026)</i> (Under review).
 
-Diykh, D., Mumtaz, A., Farooque, A. A., Al-Naemi, S., Malekian, R., Afzaal, H., Randhawa, G. S., **Sheridan, P.**, Esau, T. J. (2026). "Drone-Based RGB to Thermal Image Translation: A Novel Approach for Non-destructive Crop Monitoring". <i>Expert Systems with Applications</i> (Under review).
+Diykh, D., Mumtaz, A., Farooque, A. A., Al-Naemi, S., Malekian, R., Afzaal, H., Randhawa, G. S., **Sheridan, P.**, Esau, T. J. (2026). "Drone-Based RGB to Thermal Image Translation: A Novel Approach for Non-destructive Crop Monitoring". <i>Expert Systems with Applications</i> (Revision requested).
 
 Ahmed, Z., **Sheridan, P.**, McIsaac, M., Farooque, A. A. (2026). "Common TF–IDF Variants Arise as Key Components in the Test Statistic of a Penalized Likelihood-ratio Test for Word Burstiness". <i>Discover Computing</i> (Revision requested).
 
