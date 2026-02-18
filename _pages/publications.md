@@ -29,7 +29,7 @@ Sarria Hurtado, S., **Sheridan, P.**, Mullen, T., Lai, U., Onodera, T., Randhawa
 Peer reviewed journal articles 
 ------
 
-Visser Solisa, N., **Sheridan, P.**, Onsjö, M., van Cranenburgh, A., Pianzola, F. (2026). A Classification Benchmark based on the Literary Theme Ontology. <i>Journal of Open Digital Humanities</i> (In press).
+Visser Solisa, N., **Sheridan, P.**, Onsjö, M., van Cranenburgh, A., Pianzola, F. (2026). A Classification Benchmark based on the Literary Theme Ontology. <i>Journal of Open Digital Humanities</i>, 12: 31. Full text available at <a href="https://openhumanitiesdata.metajnl.com/articles/10.5334/johd.480" target="_blank" rel="noopener"> Journal of Open Digital Humanities</a>.
 
 Boluwade, A., **Sheridan, P.**, Rathnayake, U. (2025). "Investigating Spatial Extremes of Annual Daily Precipitation in Atlantic Canada using CMIP6 Multi-Model Ensembles for Flood Risk Assessment". <i>Sustainability</i>, 17(18): 8198. Full text available at <a href="https://www.mdpi.com/2071-1050/17/18/8198" target="_blank" rel="noopener"> Sustainability</a>.
 
