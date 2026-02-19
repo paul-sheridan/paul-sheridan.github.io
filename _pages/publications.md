@@ -5,12 +5,12 @@ permalink: /publications/
 author_profile: true
 ---
 
-Last updated: 18 February 2026
+Last updated: 19 February 2026
 
 Submitted manuscripts
 ------
 
-Guo, Y. **Sheridan, P.** (2026). "Greedy-Gnorm: A Gradient Matrix Norm-Based Alternative to Attention Entropy for Head Pruning". Submitted to <i>Machine Learning</i> (Springer Nature). Preprint available at <a href="https://arxiv.org/abs/2602.04491" target="_blank" rel="noopener"> arXiv</a>.
+Guo, Y., **Sheridan, P.** (2026). "Greedy-Gnorm: A Gradient Matrix Norm-Based Alternative to Attention Entropy for Head Pruning". Submitted to <i>Machine Learning</i> (Springer Nature). Preprint available at <a href="https://arxiv.org/abs/2602.04491" target="_blank" rel="noopener"> arXiv</a>.
 
 
 Under review manuscripts
