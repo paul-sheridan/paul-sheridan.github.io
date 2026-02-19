@@ -22,7 +22,7 @@ Diykh, D., Mumtaz, A., Farooque, A. A., Al-Naemi, S., Malekian, R., Afzaal, H., 
 
 Ahmed, Z., **Sheridan, P.**, McIsaac, M., Farooque, A. A. (2026). "Common TF–IDF Variants Arise as Key Components in the Test Statistic of a Penalized Likelihood-ratio Test for Word Burstiness". <i>Discover Computing</i> (Revision requested).
 
-Lai, U. Lewis, D. C. P., **Sheridan, P.**, Randhawa, G. S., Farooque, A. A. (2025). "A Comparative Analysis of Lexical Diversity in Human-Written and Large Language Model-Emulated Text using Heaps' Law". <i>Computational Linguistics</i> (Revision requested).
+Lai, U., Lewis, D. C. P., **Sheridan, P.**, Randhawa, G. S., Farooque, A. A. (2025). "A Comparative Analysis of Lexical Diversity in Human-Written and Large Language Model-Emulated Text using Heaps' Law". <i>Computational Linguistics</i> (Revision requested).
 
 Sarria Hurtado, S., **Sheridan, P.**, Mullen, T., Lai, U., Onodera, T., Randhawa, G. S., Farooque, A. A. (2025). "A Heuristic Approach to Term Dispersion Quantification with Applications to Domain-Specific Terminology Extraction". <i>Natural Language Processing</i> (Revision requested).
 
