@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-Last updated: 19 February 2026
+Last updated: 22 February 2026
 
 Submitted manuscripts
 ------
@@ -91,7 +91,7 @@ Onodera, T., **Sheridan, P.** (2013). "Maximum Likelihood Estimation of Preferen
 
 **Posters**
 
-Acorn, C., Reyes-Vélez, J., Bolufe-Rohler, A., Montelpare, W., **Sheridan, P.** (2025). "Well-Being of Indigenous and Visible Minority Veterans". <i>Student Program for Research Engagement and Excellence (SPREE)</i>, Charlottetown, Canada, August 27.
+Acorn, C., Reyes-Vélez, J., Bolufe-Rohler, A., Montelpare, W., **Sheridan, P.** (2025). "Well-Being of Indigenous and Visible Minority Veterans". <i>The 9th Annual Student Program for Research Engagement and Excellence (SPREE)</i>, Charlottetown, Canada, August 27.
 
 Yamaguchi, K., Nakagawa, S., Yamaguchi, R., **Sheridan, P.**, Takane, K., Ikenoue, T., Nagatoichi, S., Kozuka-Hata, H., Oyama, M., Aikou, S., Ahiko, Y., Shida, D., Tsumoto, K., Miyano, S., Imoto, S., Furukawa, Y. (2024). "TIP60-Independent Mechanism of BRD8 is involved in Colorectal Tumorigenesis", <i>AACR Annual Meeting</i>, San Diego, USA, April 4-10.
 
