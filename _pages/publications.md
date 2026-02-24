@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-Last updated: 22 February 2026
+Last updated: 24 February 2026
 
 Submitted manuscripts
 ------
@@ -62,7 +62,7 @@ Thong, P., **Sheridan, P.**, Shimodaira, H. (2016). "Joint Estimation of Prefere
 
 Koso, H., Yi, H., **Sheridan, P.**, Miyano, S., Ino, Y., Todo, T., Watanabe, S. (2016). "Identification of RNA-Binding Protein LARP4B as a Tumor Suppressor in Glioma". <i>Cancer Research</i>, 76: 2254-2264. Full text available at <a href="https://aacrjournals.org/cancerres/article/76/8/2254/617687/Identification-of-RNA-Binding-Protein-LARP4B-as-a" target="_blank" rel="noopener"> Cancer Research</a>.
 
-Thong, P., **Sheridan, P.**, Shimodaira, H. (2015). "A Statistical Method for Measuring Preferential Attachment in Temporal Complex Networks". <i>PloS ONE</i>, e0137796. Full text available at <a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0137796" target="_blank" rel="noopener"> PloS ONE</a>.
+Thong, P., **Sheridan, P.**, Shimodaira, H. (2015). "A Statistical Method for Measuring Preferential Attachment in Temporal Complex Networks". <i>PlOS One</i>, e0137796. Full text available at <a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0137796" target="_blank" rel="noopener"> PlOS One</a>.
 
 Takahashi, Y., **Sheridan, P.**, Niida, A., Sawada, G., Uchi, R., Mizuno, H., Kurashige, J., Sugimachi, K., Sasaki, S., Shimada, Y., Hase, K., Kusunoki, M., Kudo, S., Watanabe, M., Yamada, K., Sugihara, K., Yamamoto, H., Suzuki, A., Doki, Y., Miyano, S., Mori, M., Mimori, K. (2015). "The AURKA/TPX2 Axis Drives Colon Tumorigenesis Cooperatively with MYC". <i>Annals of Oncology</i>, 26: 935-942. Full text available at <a href="https://www.sciencedirect.com/science/article/pii/S0923753419314978?via%3Dihub" target="_blank" rel="noopener"> Annals of Oncology</a>.
 
@@ -70,7 +70,7 @@ Balogun, E., Balogun, J., Yusuf, S., Inuwa, H., Ndams, I., **Sheridan, P.**, Ino
 
 **Sheridan, P.**, Yagahara, Y., Shimodaira, H. (2012). "Measuring Preferential Attachment in Growing Networks with Missing-Timelines using Markov Chain Monte Carlo". <i>Physica A</i>, 20: 5031-5040. Full text available at <a href="https://www.sciencedirect.com/science/article/pii/S0378437112004128" target="_blank" rel="noopener"> Physica A</a>.
 
-**Sheridan, P.**, Kamimura, T., Shimodaira, H. (2010). "A Scale-Free Structure Prior for Graphical Models with Applications in Functional Genomics". <i>PLoS ONE</i>, 5(11): e13580. Full text available at <a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0013580" target="_blank" rel="noopener"> PLoS ONE</a>.
+**Sheridan, P.**, Kamimura, T., Shimodaira, H. (2010). "A Scale-Free Structure Prior for Graphical Models with Applications in Functional Genomics". <i>PLOS One</i>, 5(11): e13580. Full text available at <a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0013580" target="_blank" rel="noopener"> PLOS One</a>.
 
 **Sheridan, P.**, Yagahara, Y., Shimodaira, H. (2008). "A Preferential Attachment Model with Poisson Growth for Scale-Free Networks". <i>Annals of the Inustitute of Statistical Mathematics</i>, 60: 747-761. Full text available at <a href="https://link.springer.com/article/10.1007/s10463-008-0181-5" target="_blank" rel="noopener"> Annals of the Institute of Statistical Mathematics</a>.
 
