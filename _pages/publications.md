@@ -72,7 +72,7 @@ Balogun, E., Balogun, J., Yusuf, S., Inuwa, H., Ndams, I., **Sheridan, P.**, Ino
 
 **Sheridan, P.**, Kamimura, T., Shimodaira, H. (2010). "A Scale-Free Structure Prior for Graphical Models with Applications in Functional Genomics". <i>PLOS One</i>, 5(11): e13580. Full text available at <a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0013580" target="_blank" rel="noopener"> PLOS One</a>.
 
-**Sheridan, P.**, Yagahara, Y., Shimodaira, H. (2008). "A Preferential Attachment Model with Poisson Growth for Scale-Free Networks". <i>Annals of the Inustitute of Statistical Mathematics</i>, 60: 747-761. Full text available at <a href="https://link.springer.com/article/10.1007/s10463-008-0181-5" target="_blank" rel="noopener"> Annals of the Institute of Statistical Mathematics</a>.
+**Sheridan, P.**, Yagahara, Y., Shimodaira, H. (2008). "A Preferential Attachment Model with Poisson Growth for Scale-Free Networks". <i>Annals of the Institute of Statistical Mathematics</i>, 60: 747-761. Full text available at <a href="https://link.springer.com/article/10.1007/s10463-008-0181-5" target="_blank" rel="noopener"> Annals of the Institute of Statistical Mathematics</a>.
 
 Conference activity
 ------
