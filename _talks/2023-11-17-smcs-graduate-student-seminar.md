@@ -3,7 +3,7 @@ title: "A Test of Statistical Significance for Extracting Technical Terminology 
 collection: talks
 type: "Talk"
 permalink: /talks/2023-11-17-smcs-graduate-student-seminar
-venue: "The University of Prince Edward Island"
+venue: "SMCS Graduate Student Seminar, University of Prince Edward Island"
 date: 2023-11-17
 location: "Charlottetown, Canada"
 ---

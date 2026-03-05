@@ -3,7 +3,7 @@ title: "Toward Creating a Collection of Literary Themes for use in Supervised Le
 collection: talks
 type: "Talk"
 permalink: /talks/2023-07-03-onfw-workshop
-venue: "The University of Groningen"
+venue: "Ontologies for Narrative and Fiction workshop, The University of Groningen"
 date: 2023-07-03
 location: "Groningen, the Netherlands"
 ---
