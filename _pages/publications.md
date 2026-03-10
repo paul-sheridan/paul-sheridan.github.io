@@ -12,7 +12,7 @@ Under review manuscripts
 
 Tamayo-Vera, D., MacLennan, L., **Sheridan, P.** (2026). "Evaluating Explanation Stability for Reliable Interpretability in Machine Learning". <i>The IEEE World Congress on Computational Intelligence 2026 (WCCI 2026)</i> (Under review).
 
-Guo, Y., **Sheridan, P.** (2026). "Greedy-Gnorm: A Gradient Matrix Norm-Based Alternative to Attention Entropy for Head Pruning". Submitted to <i>Machine Learning</i> (Under review). Preprint available at <a href="https://arxiv.org/abs/2602.04491" target="_blank" rel="noopener"> arXiv</a>.
+Guo, Y., **Sheridan, P.** (2026). "Greedy-Gnorm: A Gradient Matrix Norm-Based Alternative to Attention Entropy for Head Pruning". <i>Machine Learning</i> (Under review). Preprint available at <a href="https://arxiv.org/abs/2602.04491" target="_blank" rel="noopener"> arXiv</a>.
 
 Diykh, D., Mumtaz, A., Farooque, A. A., Al-Naemi, S., Malekian, R., Afzaal, H., Randhawa, G. S., **Sheridan, P.**, Esau, T. J. (2026). "Drone-Based RGB to Thermal Image Translation: A Novel Approach for Non-destructive Crop Monitoring". <i>Expert Systems with Applications</i> (Revision requested).
 
