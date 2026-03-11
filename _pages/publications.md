@@ -20,7 +20,7 @@ Lai, U., Lewis, D. C. P., **Sheridan, P.**, Randhawa, G. S., Farooque, A. A. (20
 
 Sarria Hurtado, S., **Sheridan, P.**, Mullen, T., Lai, U., Onodera, T., Randhawa, G. S., Farooque, A. A. (2025). "A Heuristic Approach to Term Dispersion Quantification with Applications to Domain-Specific Terminology Extraction". <i>Natural Language Processing</i> (Revision requested).
 
-Peer reviewed journal articles 
+Journal articles 
 ------
 
 Diykh, D., Mumtaz, A., Farooque, A. A., Al-Naemi, S., Malekian, R., Afzaal, H., Randhawa, G. S., **Sheridan, P.**, Esau, T. J. (2026). "Drone-Based RGB to Thermal Image Translation: A Novel Approach for Non-destructive Crop Monitoring". <i>Expert Systems with Applications</i> (Accepted).
