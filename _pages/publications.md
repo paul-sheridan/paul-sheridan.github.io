@@ -75,7 +75,9 @@ Conference activity
 
 **Papers**
 
-Lai, U., Randhawa, G. S., **Sheridan, P.** (2023). "Heaps' Law in GPT-Neo Large Language Model Emulated Corpora". Accepted at NTCIR-17, Track EVIA. Full text available at <a href="https://repository.nii.ac.jp/records/2001352" target="_blank" rel="noopener"> NII Institutional Repository</a>. Preprint available at <a href="https://arxiv.org/abs/2311.06377" target="_blank" rel="noopener"> arXiv</a>.
+Chereddy, S., Vinden, N., Kopel, K. , Aslam, K., Randhawa, G. S., **Sheridan, P.** Farooque, A. A. (2026). “Measuring Deep Thought in LLMs Through Hidden State Analysis”. <i>The Fifth International Conference on Pattern Recognition and Artificial Intelligence (ICPRAI 2026)</i>, Concordia University, Montreal, Canada, Jun. 15–18.
+
+Lai, U., Randhawa, G. S., **Sheridan, P.** (2023). "Heaps' Law in GPT-Neo Large Language Model Emulated Corpora". <i>Proceedings of the Tenth International Workshop on Evaluating Information Access (EVIA 2023), a Satellite Workshop of the NTCIR-17 Conference</i>, Tokyo, Japan, December 12. Full text available at <a href="https://repository.nii.ac.jp/records/2001352" target="_blank" rel="noopener"> NII Institutional Repository</a>. Preprint available at <a href="https://arxiv.org/abs/2311.06377" target="_blank" rel="noopener"> arXiv</a>.
 
 **Sheridan, P.**, Onsjö, M., Hastings, J. (2019). "The Literary Theme Ontology for Media Annotation and Information Retrieval". <i>Proceedings of JOWO2019: The Joint Ontology Workshops</i>, Graz, Austria, September 23-25. Full text available at <a href="https://ceur-ws.org/Vol-2518/paper-WODHSA8.pdf" target="_blank" rel="noopener"> Proceedings of the Joint Ontology Workshops 2019 Episode V: The Styrian Autumn of Ontology</a>.
 
