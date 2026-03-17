@@ -23,7 +23,7 @@ Sarria Hurtado, S., **Sheridan, P.**, Mullen, T., Lai, U., Onodera, T., Randhawa
 Journal articles 
 ------
 
-Diykh, D., Mumtaz, A., Farooque, A. A., Al-Naemi, S., Malekian, R., Afzaal, H., Randhawa, G. S., **Sheridan, P.**, Esau, T. J. (2026). "Drone-Based RGB to Thermal Image Translation: A Novel Approach for Non-destructive Crop Monitoring". <i>Expert Systems with Applications</i> (Accepted).
+Diykh, D., Mumtaz, A., Farooque, A. A., Al-Naemi, S., Malekian, R., Afzaal, H., Randhawa, G. S., **Sheridan, P.**, Esau, T. J. (2026). "Drone-Based RGB to Thermal Image Translation: A Novel Approach for Non-destructive Crop Monitoring". <i>Expert Systems with Applications</i>, 318: 132061. Full text available at <a href="https://doi.org/10.1016/j.eswa.2026.132061" target="_blank" rel="noopener"> Jxpert Systems with Applications</a>.
 
 Visser Solisa, N., **Sheridan, P.**, Onsjö, M., van Cranenburgh, A., Pianzola, F. (2026). "A Classification Benchmark based on the Literary Theme Ontology". <i>Journal of Open Digital Humanities</i>, 12: 31. Full text available at <a href="https://openhumanitiesdata.metajnl.com/articles/10.5334/johd.480" target="_blank" rel="noopener"> Journal of Open Digital Humanities</a>.
 
