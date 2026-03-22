@@ -14,7 +14,7 @@ Guo, Y., **Sheridan, P.** (2026). "Greedy-Gnorm: A Gradient Matrix Norm-Based Al
 
 Ahmed, Z., **Sheridan, P.**, McIsaac, M., Farooque, A. A. (2026). "Common TF–IDF Variants Arise as Key Components in the Test Statistic of a Penalized Likelihood-ratio Test for Word Burstiness". <i>Discover Computing</i> (Revision requested).
 
-Lai, U., Lewis, D. C. P., **Sheridan, P.**, Randhawa, G. S., Farooque, A. A. (2025). "A Comparative Analysis of Lexical Diversity in Human-Written and Large Language Model-Emulated Text using Heaps' Law". <i>Computational Linguistics</i> (Revision requested).
+Lai, U., Lewis, D. C. P., **Sheridan, P.**, Randhawa, G. S., Farooque, A. A. (2025). "A Comparative Analysis of Lexical Diversity in Human-Written and Large Language Model-Emulated Text using Heaps' Law". <i>Computational Linguistics and Linguistic Theory</i> (Submitted).
 
 Sarria Hurtado, S., **Sheridan, P.**, Mullen, T., Lai, U., Onodera, T., Randhawa, G. S., Farooque, A. A. (2025). "A Heuristic Approach to Term Dispersion Quantification with Applications to Domain-Specific Terminology Extraction". <i>Natural Language Processing</i> (Revision requested).
 
@@ -73,7 +73,7 @@ Conference activity
 
 **Papers**
 
-Chereddy, S., Vinden, N., Kopel, K. , Aslam, K., Randhawa, G. S., **Sheridan, P.** Farooque, A. A. (2026). “Measuring Deep Thought in LLMs Through Hidden State Analysis”. <i>The Fifth International Conference on Pattern Recognition and Artificial Intelligence (ICPRAI 2026)</i>, Concordia University, Montreal, Canada, Jun. 15–18.
+Chereddy, S., Vinden, N., Kopel, K. , Aslam, K., Randhawa, G. S., **Sheridan, P.** Farooque, A. A. (2026). “Measuring Deep Thought in LLMs Through Hidden State Analysis”. <i>The Fifth International Conference on Pattern Recognition and Artificial Intelligence (ICPRAI 2026)</i>, Concordia University, Montreal, Canada, June 15–18.
 
 Lai, U., Randhawa, G. S., **Sheridan, P.** (2023). "Heaps' Law in GPT-Neo Large Language Model Emulated Corpora". <i>Proceedings of the Tenth International Workshop on Evaluating Information Access (EVIA 2023), a Satellite Workshop of the NTCIR-17 Conference</i>, Tokyo, Japan, December 12. Full text available at <a href="https://repository.nii.ac.jp/records/2001352" target="_blank" rel="noopener"> NII Institutional Repository</a>. Preprint available at <a href="https://arxiv.org/abs/2311.06377" target="_blank" rel="noopener"> arXiv</a>.
 
