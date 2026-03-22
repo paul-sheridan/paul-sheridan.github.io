@@ -5,12 +5,10 @@ permalink: /publications/
 author_profile: true
 ---
 
-Last updated: 17 March 2026
+Last updated: 22 March 2026
 
 Under review manuscripts
 ------
-
-Tamayo-Vera, D., MacLennan, L., **Sheridan, P.** (2026). "Evaluating Explanation Stability for Reliable Interpretability in Machine Learning". <i>The IEEE World Congress on Computational Intelligence 2026 (WCCI 2026)</i> (Under review).
 
 Guo, Y., **Sheridan, P.** (2026). "Greedy-Gnorm: A Gradient Matrix Norm-Based Alternative to Attention Entropy for Head Pruning". <i>Machine Learning</i> (Under review). Preprint available at <a href="https://arxiv.org/abs/2602.04491" target="_blank" rel="noopener"> arXiv</a>.
 
