@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-Last updated: 22 March 2026
+Last updated: 24 March 2026
 
 Under review manuscripts
 ------
@@ -73,7 +73,9 @@ Conference activity
 
 **Papers**
 
-Chereddy, S., Vinden, N., Kopel, K. , Aslam, K., Randhawa, G. S., **Sheridan, P.** Farooque, A. A. (2026). “Measuring Deep Thought in LLMs Through Hidden State Analysis”. <i>The Fifth International Conference on Pattern Recognition and Artificial Intelligence (ICPRAI 2026)</i>, Concordia University, Montreal, Canada, June 15–18.
+Roby, R., Power, C., and **Sheridan, P.** (2026). "Detecting Disability Insensitive Language in Scholarly Works". <i>20th International Conference on Digital Inclusion, Assistive Technology (AT), Accessible ICT (eAccessibility) (ICCHP 2026)</i>, Masaryk University Brno, Czech Republic, July 15–17.
+
+Chereddy, S., Vinden, N., Kopel, K. , Aslam, K., Randhawa, G. S., **Sheridan, P.** Farooque, A. A. (2026). "Measuring Deep Thought in LLMs Through Hidden State Analysis". <i>The Fifth International Conference on Pattern Recognition and Artificial Intelligence (ICPRAI 2026)</i>, Concordia University, Montreal, Canada, June 15–18.
 
 Lai, U., Randhawa, G. S., **Sheridan, P.** (2023). "Heaps' Law in GPT-Neo Large Language Model Emulated Corpora". <i>Proceedings of the Tenth International Workshop on Evaluating Information Access (EVIA 2023), a Satellite Workshop of the NTCIR-17 Conference</i>, Tokyo, Japan, December 12. Full text available at <a href="https://repository.nii.ac.jp/records/2001352" target="_blank" rel="noopener"> NII Institutional Repository</a>. Preprint available at <a href="https://arxiv.org/abs/2311.06377" target="_blank" rel="noopener"> arXiv</a>.
 
