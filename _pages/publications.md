@@ -5,21 +5,23 @@ permalink: /publications/
 author_profile: true
 ---
 
-Last updated: 24 March 2026
+Last updated: 7 April 2026
 
 Under review manuscripts
 ------
 
-Guo, Y., **Sheridan, P.** (2026). "Greedy-Gnorm: A Gradient Matrix Norm-Based Alternative to Attention Entropy for Head Pruning". <i>Machine Learning</i> (Under review). Preprint available at <a href="https://arxiv.org/abs/2602.04491" target="_blank" rel="noopener"> arXiv</a>.
+Guo, Y. , **Sheridan, P.** (2026). "Greedy-Gnorm: A Gradient Matrix Norm-Based Alternative to Attention Entropy for Head Pruning". <i>Machine Learning</i> (Under review). Preprint available at <a href="https://arxiv.org/abs/2602.04491" target="_blank" rel="noopener"> arXiv</a>.
 
-Ahmed, Z., **Sheridan, P.**, McIsaac, M., Farooque, A. A. (2026). "Common TF–IDF Variants Arise as Key Components in the Test Statistic of a Penalized Likelihood-ratio Test for Word Burstiness". <i>Discover Computing</i> (Revision requested).
+Karbasi, M., Jamei, M., Fatima, I., Farooque, A. A., **Sheridan, P.**, Ali, M. (2026). "Forecasting drought across Canada using a hybrid machine learning approach: A national perspective for adaptations and early warning systems". <i>Artificial Inteligence in Agriculture</i> (Submitted).
 
-Lai, U., Lewis, D. C. P., **Sheridan, P.**, Randhawa, G. S., Farooque, A. A. (2025). "A Comparative Analysis of Lexical Diversity in Human-Written and Large Language Model-Emulated Text using Heaps' Law". <i>Computational Linguistics and Linguistic Theory</i> (Submitted).
+Lai, U., Lewis, D. C. P., **Sheridan, P.**, Randhawa, G. S., Farooque, A. A. (2025). "A Comparative Analysis of Lexical Diversity in Human-Written and Large Language Model-Emulated Text using Heaps' Law". <i>Natural Language Processing</i> (Submitted).
 
 Sarria Hurtado, S., **Sheridan, P.**, Mullen, T., Lai, U., Onodera, T., Randhawa, G. S., Farooque, A. A. (2025). "A Heuristic Approach to Term Dispersion Quantification with Applications to Domain-Specific Terminology Extraction". <i>Natural Language Processing</i> (Revision requested).
 
 Journal articles 
 ------
+
+Ahmed, Z., **Sheridan, P.**, McIsaac, M., Farooque, A. A. (2026). "Common TF–IDF Variants Arise as Key Components in the Test Statistic of a Penalized Likelihood-ratio Test for Word Burstiness". <i>Discover Computing</i> (In press). Preprint available at <a href="https://arxiv.org/abs/2604.00672" target="_blank" rel="noopener"> arXiv</a>.
 
 Diykh, D., Mumtaz, A., Farooque, A. A., Al-Naemi, S., Malekian, R., Afzaal, H., Randhawa, G. S., **Sheridan, P.**, Esau, T. J. (2026). "Drone-Based RGB to Thermal Image Translation: A Novel Approach for Non-destructive Crop Monitoring". <i>Expert Systems with Applications</i>, 318: 132061. Full text available at <a href="https://doi.org/10.1016/j.eswa.2026.132061" target="_blank" rel="noopener"> Expert Systems with Applications</a>.
 
@@ -27,8 +29,7 @@ Visser Solisa, N., **Sheridan, P.**, Onsjö, M., van Cranenburgh, A., Pianzola, 
 
 Boluwade, A., **Sheridan, P.**, Rathnayake, U. (2025). "Investigating Spatial Extremes of Annual Daily Precipitation in Atlantic Canada using CMIP6 Multi-Model Ensembles for Flood Risk Assessment". <i>Sustainability</i>, 17(18): 8198. Full text available at <a href="https://www.mdpi.com/2071-1050/17/18/8198" target="_blank" rel="noopener"> Sustainability</a>.
 
-Jamei, M., Farooque, A. A., Ali, M., Karbasi, M., Afzaal, H., Cheema, S. J., Zaman, Q. U., Woon, K. S.,
-**Sheridan, P.** (2025). "eXplainable Expert Systems for Potato Tuber Yield Prediction in the Maritime Provinces of Canada". <i>Computers and Electronics in Agriculture</i>, 238: 110831. Full text available at <a href="https://www.sciencedirect.com/science/article/pii/S0168169925009378?via%3Dihub" target="_blank" rel="noopener"> Computers and Electronics in Agriculture</a>.
+Jamei, M., Farooque, A. A., Ali, M., Karbasi, M., Afzaal, H., Cheema, S. J., Zaman, Q. U., Woon, K. S., **Sheridan, P.** (2025). "eXplainable Expert Systems for Potato Tuber Yield Prediction in the Maritime Provinces of Canada". <i>Computers and Electronics in Agriculture</i>, 238: 110831. Full text available at <a href="https://www.sciencedirect.com/science/article/pii/S0168169925009378?via%3Dihub" target="_blank" rel="noopener"> Computers and Electronics in Agriculture</a>.
 
 **Sheridan, P.**, Ahmed, Z., Farooque, A. A. (2025). "A Fisher's Exact Test Justification of the TF-IDF Term-Weighting Scheme". <i>The American Statistician</i>, 1-11. Full text available at <a href="https://www.tandfonline.com/doi/full/10.1080/00031305.2025.2539241" target="_blank" rel="noopener"> The American Statistician</a>. Preprint available at <a href="https://arxiv.org/abs/2507.15742" target="_blank" rel="noopener"> arXiv</a>.
 
