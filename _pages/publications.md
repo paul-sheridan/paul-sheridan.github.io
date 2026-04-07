@@ -12,7 +12,7 @@ Under review manuscripts
 
 Guo, Y. , **Sheridan, P.** (2026). "Greedy-Gnorm: A Gradient Matrix Norm-Based Alternative to Attention Entropy for Head Pruning". <i>Machine Learning</i> (Under review). Preprint available at <a href="https://arxiv.org/abs/2602.04491" target="_blank" rel="noopener"> arXiv</a>.
 
-Karbasi, M., Jamei, M., Fatima, I., Farooque, A. A., **Sheridan, P.**, Ali, M. (2026). "Forecasting drought across Canada using a hybrid machine learning approach: A national perspective for adaptations and early warning systems". <i>Artificial Inteligence in Agriculture</i> (Submitted).
+Karbasi, M., Jamei, M., Fatima, I., Farooque, A. A., **Sheridan, P.**, Ali, M. (2026). "Forecasting Drought across Canada using a Hybrid Machine Learning Approach: A National Perspective for Adaptations and Early Warning Systems". <i>Artificial Inteligence in Agriculture</i> (Submitted).
 
 Lai, U., Lewis, D. C. P., **Sheridan, P.**, Randhawa, G. S., Farooque, A. A. (2025). "A Comparative Analysis of Lexical Diversity in Human-Written and Large Language Model-Emulated Text using Heaps' Law". <i>Natural Language Processing</i> (Submitted).
 
