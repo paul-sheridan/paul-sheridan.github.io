@@ -5,12 +5,14 @@ permalink: /publications/
 author_profile: true
 ---
 
-Last updated: 21 April 2026
+Last updated: 30 April 2026
 
 Under review manuscripts
 ------
 
-Y. Guo, **P. Sheridan** (2026). "Greedy-Gnorm: A Gradient Matrix Norm-Based Alternative to Attention Entropy for Head Pruning". <i>Machine Learning</i> (Under review). Preprint available at <a href="https://arxiv.org/abs/2602.04491" target="_blank" rel="noopener"> arXiv</a>.
+Y. Guo, **P. Sheridan** (2026). "Greedy-Gnorm: A Gradient Matrix Norm-Based Alternative to Attention Entropy for Head Pruning". <i>Machine Learning</i> (Revision requested). Preprint available at <a href="https://arxiv.org/abs/2602.04491" target="_blank" rel="noopener"> arXiv</a>.
+
+I. Ullah, M. Jamei, **P. Sheridan**, A. Raza, M. Karbasi, M. S. Ullah, K. Al-Mughrabi, Q. U. Zaman, and A. A. Farooque (2026). "Advancing Sustainable Potato Yield Prediction in the Maritime Provinces of Canada: Application of a Stacking Framework based on High-Dimensional Multi-Source Data" <i>Advanced Engineering Informatics</i> (Submitted).
 
 M. Karbasi, M. Jamei, I. Fatima, A. A. Farooque, **P. Sheridan**, M. Ali (2026). "Forecasting Drought across Canada using a Hybrid Machine Learning Approach: A National Perspective for Adaptations and Early Warning Systems". <i>Computers and Electronics in Agriculture</i> (Under review).
 
