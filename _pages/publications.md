@@ -12,9 +12,9 @@ Under review manuscripts
 
 Y. Guo, **P. Sheridan** (2026). "Greedy-Gnorm: A Gradient Matrix Norm-Based Alternative to Attention Entropy for Head Pruning". <i>Machine Learning</i> (Revision requested). Preprint available at <a href="https://arxiv.org/abs/2602.04491" target="_blank" rel="noopener"> arXiv</a>.
 
-I. Ullah, M. Jamei, **P. Sheridan**, A. Raza, M. Karbasi, M. S. Ullah, K. Al-Mughrabi, Q. U. Zaman, and A. A. Farooque (2026). "Advancing Sustainable Potato Yield Prediction in the Maritime Provinces of Canada: Application of a Stacking Framework based on High-Dimensional Multi-Source Data". <i>Advanced Engineering Informatics</i> (Submitted).
+I. Ullah, M. Jamei, **P. Sheridan**, A. Raza, M. Karbasi, M. S. Ullah, K. Al-Mughrabi, Q. U. Zaman, and A. A. Farooque (2026). "Advancing Sustainable Potato Yield Prediction in the Maritime Provinces of Canada: Application of a Stacking Framework based on High-Dimensional Multi-Source Data". <i>Advanced Engineering Informatics</i> (Under review).
 
-M. Karbasi, M. Jamei, I. Fatima, A. A. Farooque, **P. Sheridan**, M. Ali (2026). "Forecasting Drought across Canada using a Hybrid Machine Learning Approach: A National Perspective for Adaptations and Early Warning Systems". <i>Computers and Electronics in Agriculture</i> (Under review).
+M. Karbasi, M. Jamei, I. Fatima, A. A. Farooque, **P. Sheridan**, M. Ali (2026). "Forecasting Drought across Canada using a Hybrid Machine Learning Approach: A National Perspective for Adaptations and Early Warning Systems". <i>Computers and Electronics in Agriculture</i> (Revision requested).
 
 U. Lai, D. C. P. Lewis, **P. Sheridan**, G. S. Randhawa, A. A. Farooque (2025). "A Comparative Analysis of Lexical Diversity in Human-Written and Large Language Model-Emulated Text using Heaps' Law". <i>Natural Language Processing</i> (Submitted).
 
