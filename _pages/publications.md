@@ -23,7 +23,7 @@ S. Sarria Hurtado, **P. Sheridan**, T. Mullen, U. Lai, T. Onodera, G. S. Randhaw
 Journal articles 
 ------
 
-Z. Ahmed, **P. Sheridan**, M. McIsaac, A. A. Farooque (2026). "Common TF–IDF Variants Arise as Key Components in the Test Statistic of a Penalized Likelihood-ratio Test for Word Burstiness". <i>Discover Computing</i> (In press). Preprint available at <a href="https://arxiv.org/abs/2604.00672" target="_blank" rel="noopener"> arXiv</a>.
+Z. Ahmed, **P. Sheridan**, M. McIsaac, A. A. Farooque (2026). "Common TF–IDF Variants Arise as Key Components in the Test Statistic of a Penalized Likelihood-ratio Test for Word Burstiness". <i>Discover Computing</i>, 29(274). Full text available at <a href="https://link.springer.com/article/10.1007/s10791-026-10090-4" target="_blank" rel="noopener"> Discover Computing</a>. Preprint available at <a href="https://arxiv.org/abs/2604.00672" target="_blank" rel="noopener"> arXiv</a>.
 
 M. Diykh, M. Ali, A. A. Farooque, A. Al-Naemi, R. Malekian, H. Afzaal, G. S. Randhawa, **P. Sheridan**, T. J. Esau (2026). "Drone-Based RGB to Thermal Image Translation: A Novel Approach for Non-destructive Crop Monitoring". <i>Expert Systems with Applications</i>, 318: 132061. Full text available at <a href="https://doi.org/10.1016/j.eswa.2026.132061" target="_blank" rel="noopener"> Expert Systems with Applications</a>.
 
