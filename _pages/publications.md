@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-Last updated: 18 May 2026
+Last updated: 24 May 2026
 
 Under review manuscripts
 ------
@@ -91,6 +91,8 @@ T. Onodera, **P. Sheridan** (2013). "Maximum Likelihood Estimation of Preferenti
 **P. Sheridan**, T. Kamimura, H. Shimodaira (2009). "On Scale-Free Priors and their Applicability in Large-Scale Network Inference with Graphical Models". Complex 2009: Complex Sciences, Shanghai, China, February 23-25. Full text available at <a href="https://link.springer.com/chapter/10.1007/978-3-642-02466-5_9" target="_blank" rel="noopener"> Complex 2009: Complex Sciences</a>.
 
 **Posters**
+
+D. C. P. Lewis, M. Stueck, **P. Sheridan**, K. Hill, L. Kari, and G. S. Randhawa (2026). "Improving Trustworthiness in Deep Unsupervised Taxonomic Assignment". <i>Canadian Bioinformatics Hub Conference (CBHC)</i>, Toronto, Canada, May 28-29.
 
 C. Acorn, J. Reyes-Vélez, A. Bolufe-Rohler, W. Montelpare, **P. Sheridan** (2025). "Well-Being of Indigenous and Visible Minority Veterans". <i>The 9th Annual Student Program for Research Engagement and Excellence (SPREE)</i>, Charlottetown, Canada, August 27.
 
