@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-Last updated: 24 May 2026
+Last updated: 26 May 2026
 
 Under review manuscripts
 ------
@@ -14,9 +14,9 @@ Y. Guo, **P. Sheridan** (2026). "Greedy-Gnorm: A Gradient Matrix Norm-Based Alte
 
 I. Ullah, M. Jamei, **P. Sheridan**, A. Raza, M. Karbasi, M. S. Ullah, K. Al-Mughrabi, Q. U. Zaman, and A. A. Farooque (2026). "Advancing Sustainable Potato Yield Prediction in the Maritime Provinces of Canada: Application of a Stacking Framework based on High-Dimensional Multi-Source Data". <i>Advanced Engineering Informatics</i> (Under review).
 
-M. Karbasi, M. Jamei, I. Fatima, A. A. Farooque, **P. Sheridan**, M. Ali (2026). "Forecasting Drought across Canada using a Hybrid Machine Learning Approach: A National Perspective for Adaptations and Early Warning Systems". <i>Computers and Electronics in Agriculture</i> (Revision requested).
+M. Karbasi, M. Jamei, I. Fatima, A. A. Farooque, **P. Sheridan**, M. Ali (2026). "Forecasting Drought across Canada using a Hybrid Machine Learning Approach: A National Perspective for Adaptations and Early Warning Systems". <i>Computers and Electronics in Agriculture</i> (Under review).
 
-U. Lai, D. C. P. Lewis, **P. Sheridan**, G. S. Randhawa, A. A. Farooque (2025). "A Comparative Analysis of Lexical Diversity in Human-Written and Large Language Model-Emulated Text using Heaps' Law". <i>Natural Language Processing</i> (Submitted).
+U. Lai, D. C. P. Lewis, **P. Sheridan**, G. S. Randhawa, A. A. Farooque (2026). "A Comparative Analysis of Lexical Diversity in Human-Written and Large Language Model-Emulated Text using Heaps' Law". <i>Journal of Quantitative Linguistics</i> (Submitted).
 
 S. Sarria Hurtado, **P. Sheridan**, T. Mullen, U. Lai, T. Onodera, G. S. Randhawa, A. A. Farooque (2025). "A Heuristic Approach to Term Dispersion Quantification with Applications to Domain-Specific Terminology Extraction". <i>Natural Language Processing</i> (Revision requested).
 
