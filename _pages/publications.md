@@ -5,10 +5,15 @@ permalink: /publications/
 author_profile: true
 ---
 
-Last updated: 26 May 2026
+Last updated: 20 July 2026
 
 Under review manuscripts
 ------
+
+L. Mahmood, **P. Sheridan**, P. Faroughi, K. Grewal, and A. A. Farooque (2026). "Term-weighting through Fisher's Exact Test Mediated Pairwise Document Comparisons". <i> Journal of Classification</i> (Submitted).
+
+M. Diykh, M. Ali, A. A. Farooque, **P. Sheridan**, H. Afzaal, and A. A. Aldhafeeri, "UAV-based Object Detection Model using Dynamic Attention Graph Deep Learning Coupled with Feature Enhancement
+Approach for Precision Farm Monitoring". <i>Artificial Intelligence in Agriculture</i> (Submitted).
 
 Y. Guo, **P. Sheridan** (2026). "Greedy-Gnorm: A Gradient Matrix Norm-Based Alternative to Attention Entropy for Head Pruning". <i>Machine Learning</i> (Revision requested). Preprint available at <a href="https://arxiv.org/abs/2602.04491" target="_blank" rel="noopener"> arXiv</a>.
 
