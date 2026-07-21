@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-Last updated: 20 July 2026
+Last updated: 21 July 2026
 
 Under review manuscripts
 ------
@@ -81,7 +81,7 @@ Conference activity
 
 **Papers**
 
-R. Roby, C. Power, **P. Sheridan** (2026). "Detecting Disability Insensitive Language in Scholarly Works". <i>20th International Conference on Digital Inclusion, Assistive Technology (AT), Accessible ICT (eAccessibility) (ICCHP 2026)</i>, Masaryk University Brno, Czech Republic, July 15–17.
+R. Roby, C. Power, **P. Sheridan** (2026). "Detecting Disability Insensitive Language in Scholarly Works". <i>20th International Conference on Digital Inclusion, Assistive Technology (AT), Accessible ICT (eAccessibility) (ICCHP 2026)</i>, Masaryk University Brno, Czech Republic, July 15–17. Full text available at <a href="https://link.springer.com/chapter/10.1007/978-3-032-31285-3_11" target="_blank" rel="noopener"> Computers Helping People with Special Needs (ICCHP 2026)</a>.
 
 S. Chereddy, N. Vinden, K. Kopel, K. Aslam, G. S. Randhawa, **P. Sheridan**, A. A. Farooque (2026). "Measuring Deep Thought in LLMs Through Hidden State Analysis". <i>The Fifth International Conference on Pattern Recognition and Artificial Intelligence (ICPRAI 2026)</i>, Concordia University, Montreal, Canada, June 15–18.
 
