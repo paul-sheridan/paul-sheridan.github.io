@@ -5,6 +5,11 @@ permalink: /teaching/
 author_profile: true
 ---
 
+**Fall 2026**
+
+STAT 1910: Introduction to Statistics  
+STAT 4410: Stochastic Processes  
+
 **Winter 2026**
 
 STAT 3660: Data Visualization and Mining
