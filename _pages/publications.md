@@ -5,22 +5,22 @@ permalink: /publications/
 author_profile: true
 ---
 
-Last updated: 21 July 2026
+Last updated: 1 September 2026
 
-Under review manuscripts
+Submitted and under review manuscripts
 ------
 
-L. Mahmood, **P. Sheridan**, P. Faroughi, K. Grewal, and A. A. Farooque (2026). "Term-weighting through Fisher's exact test mediated pairwise document comparisons". <i> Journal of Classification</i> (Submitted).
+L. Mahmood, **P. Sheridan**, P. Faroughi, K. Grewal, and A. A. Farooque (2026). "Term-weighting through Fisher's exact test mediated pairwise document comparisons". <i> Journal of Classification</i> (Under review).
 
-M. Diykh, M. Ali, A. A. Farooque, **P. Sheridan**, H. Afzaal, and A. A. Aldhafeeri, "UAV-based object detection model using dynamic attention graph deep learning coupled with feature enhancement approach for precision farm monitoring". <i>Artificial Intelligence in Agriculture</i> (Submitted).
+M. Diykh, M. Ali, A. A. Farooque, **P. Sheridan**, H. Afzaal, and A. A. Aldhafeeri, "UAV-based object detection model using dynamic attention graph deep learning coupled with feature enhancement approach for precision farm monitoring". <i>Expert Systems with Applications</i> (Under review).
 
-Y. Guo, **P. Sheridan** (2026). "Greedy-Gnorm: A gradient matrix norm-based alternative to attention entropy for head pruning". <i>Machine Learning</i> (Revision requested). Preprint available at <a href="https://arxiv.org/abs/2602.04491" target="_blank" rel="noopener"> arXiv</a>.
+Y. Guo, Z. Ahmed, **P. Sheridan**, and A. A. Farooque (2026). "Greedy-Gnorm: A gradient matrix norm-based method for attention head pruning". <i>Machine Learning</i> (Revision requested). GitHub repository at <a href="https://github.com/Sheridan-Stable/greedy-gnorm" target="_blank" rel="noopener"> GitHub</a>.
 
 I. Ullah, M. Jamei, **P. Sheridan**, A. Raza, M. Karbasi, M. S. Ullah, K. Al-Mughrabi, Q. U. Zaman, and A. A. Farooque (2026). "Advancing sustainable potato yield prediction in the Maritime provinces of Canada: Application of a stacking framework based on high-dimensional multi-source data". <i>Advanced Engineering Informatics</i> (Under review).
 
-M. Karbasi, M. Jamei, I. Fatima, A. A. Farooque, **P. Sheridan**, M. Ali (2026). "Forecasting drought across Canada using a hybrid machine learning approach: A national perspective for adaptations and early warning systems". <i>Computers and Electronics in Agriculture</i> (Under review).
+M. Karbasi, M. Jamei, I. Fatima, A. A. Farooque, **P. Sheridan**, M. Ali (2026). "Forecasting drought across Canada using a hybrid machine learning approach: A national perspective for adaptations and early warning systems". <i>Computers and Electronics in Agriculture</i> (Revision requeste).
 
-U. Lai, D. C. P. Lewis, **P. Sheridan**, G. S. Randhawa, A. A. Farooque (2026). "A comparative analysis of lexical diversity in human-written and large language model-emulated text using Heaps’ law". <i>Journal of Quantitative Linguistics</i> (Submitted).
+U. Lai, D. C. P. Lewis, **P. Sheridan**, G. S. Randhawa, A. A. Farooque (2026). "A comparative analysis of lexical diversity in human-written and large language model-emulated text using Heaps’ law". <i>PLOS One</i> (Submitted).
 
 S. Sarria Hurtado, **P. Sheridan**, T. Mullen, U. Lai, T. Onodera, G. S. Randhawa, A. A. Farooque (2025). "A heuristic approach to term dispersion quantification with applications to domain-specific terminology extraction". <i>Natural Language Processing</i> (Revision requested).
 
@@ -82,8 +82,6 @@ Conference activity
 
 R. Roby, C. Power, **P. Sheridan** (2026). "Detecting disability insensitive language in scholarly works". <i>20th International Conference on Digital Inclusion, Assistive Technology (AT), Accessible ICT (eAccessibility) (ICCHP 2026)</i>, Masaryk University Brno, Czech Republic, July 15–17. Full text available at <a href="https://link.springer.com/chapter/10.1007/978-3-032-31285-3_11" target="_blank" rel="noopener"> Computers Helping People with Special Needs (ICCHP 2026)</a>.
 
-S. Chereddy, N. Vinden, K. Kopel, K. Aslam, G. S. Randhawa, **P. Sheridan**, A. A. Farooque (2026). "Measuring deep thought in LLMs through hidden state analysis". <i>The Fifth International Conference on Pattern Recognition and Artificial Intelligence (ICPRAI 2026)</i>, Concordia University, Montreal, Canada, June 15–18.
-
 U. Lai, G. S. Randhawa, **P. Sheridan** (2023). "Heaps’ law in GPT-Neo large language model emulated corpora". <i>Proceedings of the Tenth International Workshop on Evaluating Information Access (EVIA 2023), a Satellite Workshop of the NTCIR-17 Conference</i>, Tokyo, Japan, December 12. Full text available at <a href="https://repository.nii.ac.jp/records/2001352" target="_blank" rel="noopener"> NII Institutional Repository</a>. Preprint available at <a href="https://arxiv.org/abs/2311.06377" target="_blank" rel="noopener"> arXiv</a>.
 
 **P. Sheridan**, M. Onsjö, J. Hastings (2019). "The Literary Theme Ontology for media annotation and information retrieval". <i>Proceedings of JOWO2019: The Joint Ontology Workshops</i>, Graz, Austria, September 23-25. Full text available at <a href="https://ceur-ws.org/Vol-2518/paper-WODHSA8.pdf" target="_blank" rel="noopener"> Proceedings of the Joint Ontology Workshops 2019 Episode V: The Styrian Autumn of Ontology</a>.
@@ -95,6 +93,10 @@ T. Onodera, **P. Sheridan** (2013). "Maximum likelihood estimation of preferenti
 **P. Sheridan**, T. Kamimura, H. Shimodaira (2009). "On scale-free prior distributions and their applicability in large-scale network inference with Gaussian graphical models". Complex 2009: Complex Sciences, Shanghai, China, February 23-25. Full text available at <a href="https://link.springer.com/chapter/10.1007/978-3-642-02466-5_9" target="_blank" rel="noopener"> Complex 2009: Complex Sciences</a>.
 
 **Posters**
+
+S. Chereddy, M. Stueck, **P. Sheridan**, K. A. Hill, L. Kari, and G. S. Randhawa (2026). "Beyond alignment: Quantum machine learning reimagines genomic sequence classification". <i>27th International Conference on Electrical Machines (ICEM 2026)</i>, Funchal, Madeira, Portugal, September 6-9.
+
+S. Chereddy, N. Vinden, K. Kopel, K. Aslam, G. S. Randhawa, **P. Sheridan**, A. A. Farooque (2026). "Measuring deep thought in LLMs through hidden state analysis". <i>The Fifth International Conference on Pattern Recognition and Artificial Intelligence (ICPRAI 2026)</i>, Concordia University, Montreal, Canada, June 15–18.
 
 D. C. P. Lewis, M. Stueck, **P. Sheridan**, K. Hill, L. Kari, and G. S. Randhawa (2026). "Improving trustworthiness in deep unsupervised taxonomic assignment". <i>Canadian Bioinformatics Hub Conference (CBHC)</i>, Toronto, Canada, May 28-29.
 
