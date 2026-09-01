@@ -20,7 +20,7 @@ I. Ullah, M. Jamei, **P. Sheridan**, A. Raza, M. Karbasi, M. S. Ullah, K. Al-Mug
 
 M. Karbasi, M. Jamei, I. Fatima, A. A. Farooque, **P. Sheridan**, M. Ali (2026). "Forecasting drought across Canada using a hybrid machine learning approach: A national perspective for adaptations and early warning systems". <i>Computers and Electronics in Agriculture</i> (Revision requested).
 
-U. Lai, D. C. P. Lewis, **P. Sheridan**, G. S. Randhawa, A. A. Farooque (2026). "A comparative analysis of lexical diversity in human-written and large language model-emulated text using Heaps’ law". <i>PLOS One</i> (Submitted). itHub repository at <a href="https://github.com/Sheridan-Stable/heaps-law-llm" target="_blank" rel="noopener"> GitHub</a>.
+U. Lai, D. C. P. Lewis, **P. Sheridan**, G. S. Randhawa, A. A. Farooque (2026). "A comparative analysis of lexical diversity in human-written and large language model-emulated text using Heaps’ law". <i>PLOS One</i> (Under review). GitHub repository at <a href="https://github.com/Sheridan-Stable/heaps-law-llm" target="_blank" rel="noopener"> GitHub</a>.
 
 S. Sarria Hurtado, **P. Sheridan**, T. Mullen, U. Lai, T. Onodera, G. S. Randhawa, A. A. Farooque (2025). "A heuristic approach to term dispersion quantification with applications to domain-specific terminology extraction". <i>Natural Language Processing</i> (Revision requested). GitHub repository at <a href="https://github.com/Sheridan-Stable/bursty-term-measure" target="_blank" rel="noopener"> GitHub</a>.
 
