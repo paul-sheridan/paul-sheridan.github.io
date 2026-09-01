@@ -10,7 +10,7 @@ Last updated: 1 September 2026
 Submitted and under review manuscripts
 ------
 
-L. Mahmood, **P. Sheridan**, P. Faroughi, K. Grewal, and A. A. Farooque (2026). "Term-weighting through Fisher's exact test mediated pairwise document comparisons". <i> Journal of Classification</i> (Under review).
+L. Mahmood, **P. Sheridan**, P. Faroughi, K. Grewal, and A. A. Farooque (2026). "Term-weighting through Fisher's exact test mediated pairwise document comparisons". <i> Journal of Classification</i> (Under review). GitHub repository at <a href="https://github.com/Sheridan-Stable/pfet" target="_blank" rel="noopener"> GitHub</a>.
 
 M. Diykh, M. Ali, A. A. Farooque, **P. Sheridan**, H. Afzaal, and A. A. Aldhafeeri, "UAV-based object detection model using dynamic attention graph deep learning coupled with feature enhancement approach for precision farm monitoring". <i>Expert Systems with Applications</i> (Under review).
 
@@ -18,11 +18,11 @@ Y. Guo, Z. Ahmed, **P. Sheridan**, and A. A. Farooque (2026). "Greedy-Gnorm: A g
 
 I. Ullah, M. Jamei, **P. Sheridan**, A. Raza, M. Karbasi, M. S. Ullah, K. Al-Mughrabi, Q. U. Zaman, and A. A. Farooque (2026). "Advancing sustainable potato yield prediction in the Maritime provinces of Canada: Application of a stacking framework based on high-dimensional multi-source data". <i>Advanced Engineering Informatics</i> (Under review).
 
-M. Karbasi, M. Jamei, I. Fatima, A. A. Farooque, **P. Sheridan**, M. Ali (2026). "Forecasting drought across Canada using a hybrid machine learning approach: A national perspective for adaptations and early warning systems". <i>Computers and Electronics in Agriculture</i> (Revision requeste).
+M. Karbasi, M. Jamei, I. Fatima, A. A. Farooque, **P. Sheridan**, M. Ali (2026). "Forecasting drought across Canada using a hybrid machine learning approach: A national perspective for adaptations and early warning systems". <i>Computers and Electronics in Agriculture</i> (Revision requested).
 
-U. Lai, D. C. P. Lewis, **P. Sheridan**, G. S. Randhawa, A. A. Farooque (2026). "A comparative analysis of lexical diversity in human-written and large language model-emulated text using Heaps’ law". <i>PLOS One</i> (Submitted).
+U. Lai, D. C. P. Lewis, **P. Sheridan**, G. S. Randhawa, A. A. Farooque (2026). "A comparative analysis of lexical diversity in human-written and large language model-emulated text using Heaps’ law". <i>PLOS One</i> (Submitted). itHub repository at <a href="https://github.com/Sheridan-Stable/heaps-law-llm" target="_blank" rel="noopener"> GitHub</a>.
 
-S. Sarria Hurtado, **P. Sheridan**, T. Mullen, U. Lai, T. Onodera, G. S. Randhawa, A. A. Farooque (2025). "A heuristic approach to term dispersion quantification with applications to domain-specific terminology extraction". <i>Natural Language Processing</i> (Revision requested).
+S. Sarria Hurtado, **P. Sheridan**, T. Mullen, U. Lai, T. Onodera, G. S. Randhawa, A. A. Farooque (2025). "A heuristic approach to term dispersion quantification with applications to domain-specific terminology extraction". <i>Natural Language Processing</i> (Revision requested). GitHub repository at <a href="https://github.com/Sheridan-Stable/bursty-term-measure" target="_blank" rel="noopener"> GitHub</a>.
 
 Journal articles 
 ------
